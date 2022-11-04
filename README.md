@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there this is Navya's Github profile! 👋
 
-<!-- Hey this is Navya's Github profile!
+<!-- Hey 
 **Navya-Choudharyy/Navya-Choudharyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
